@@ -216,10 +216,12 @@ button:hover {
     
     main {
         flex-direction: column;
+        align-items: center;
         width: 100%;
     }
 
     .cont-resultado {
+        display: flex;
         width: 40%;
     }
 
@@ -239,6 +241,11 @@ button:hover {
         margin: 5% 0;
     }
 
+    .imagen {
+        align-items: center;
+        justify-items: center;
+    }
+
     .texto1,.texto2 {
         font-size: 1.3rem;
     }
@@ -249,7 +256,10 @@ button:hover {
     
     main {
         flex-direction: column;
+        align-items: center;
         margin-right: 2%;
+        height: 100vh;
+        width: 100vw;
     }
 
     .placeholder-img {
@@ -280,7 +290,8 @@ button:hover {
 
     .botones {
         flex-direction: column;
-        width: 120vw;
+        align-items: center;
+        width: 100vw;
         margin-left: 7%;
     }
 
