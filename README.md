@@ -35,7 +35,7 @@ Este proyecto es un encriptador de texto simple que convierte caracteres especí
 1. Clona este repositorio:
 
     ```bash
-    git clone https://github.com/CalciferD/encriptador-de-texto.git
+    git clone https://github.com/CalciferD/encriptador-texto1.github.io.git
     ```
 
 2. Navega a la carpeta del proyecto:
