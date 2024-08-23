@@ -16,9 +16,9 @@ Este proyecto es un encriptador de texto simple que convierte caracteres especí
 ![Captura Escritorio](./screenshots/index.png)
 
 ### Encriptar
-![Captura Escritorio](./screenshots/encriptado.1.png)
+![Captura Escritorio](./screenshots/encriptar.png)
 ### copiar el resultado
-![Captura Escritorio](./screenshots/copiar.1.png)
+![Captura Escritorio](./screenshots/copiar.png)
 ### pegar el texto encriptado en el campo para desencriptarlo
 ![Captura Escritorio](./screenshots/desencriptar.1.png)
 ### texto ya desencriptado
